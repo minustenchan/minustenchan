@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Bruhhhh10
+<h2 align="center">Hi 👋! I'm Minusten
 
 ###
 
