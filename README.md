@@ -15,8 +15,8 @@
 ### 📊 GitHub Stats  
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=minustenchan&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minustenchan&theme=dark" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=minustenchan&show_icons=true&theme=transparent" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minustenchan&layout=compact&langs_count=8&card_width=320&theme=transparent" alt="GitHub Streak" height="165">
 </div>
 
 ---
