@@ -15,8 +15,8 @@
 ### 📊 GitHub Stats  
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=minustenchan&show_icons=true&theme=transparent&include_all_commits=true&ring_color=abd200&title_color=abd200&icon_color=b7d364&text_color=68b587&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minustenchan&langs_count=8&card_width=260&theme=transparent&include_all_commits=true&ring_color=b7d364&title_color=abd200&icon_color=b7d364&text_color=68b587&hide_border=true" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=minustenchan&show_icons=true&theme=transparent&include_all_commits=true&ring_color=cba6f7&title_color=94e2d5&icon_color=cba6f7&text_color=cdd6f4&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minustenchan&langs_count=8&card_width=260&theme=transparent&include_all_commits=true&ring_color=cba6f7&title_color=94e2d5&icon_color=cba6f7&text_color=cdd6f4&hide_border=true" alt="GitHub Streak" height="165">
 </div>
 
 ---
