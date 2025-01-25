@@ -2,7 +2,7 @@
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)  ![Hyprland](https://img.shields.io/badge/Hyprland-00B0B9?style=for-the-badge&logo=hyprland&logoColor=white)
 
 **Programming Languages**  
-![Java](https://img.shields.io/badge/Java-FF8C00?style=for-the-badge&logo=java&logoColor=white)  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF8C00?style=for-the-badge&logo=openjdk&logoColor=white)  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![Neovim](https://img.shields.io/badge/Neovim-3E4C59?style=for-the-badge&logo=neovim&logoColor=white)  ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)  ![Gradle](https://img.shields.io/badge/Gradle-02313B?style=for-the-badge&logo=gradle&logoColor=white)  ![Zsh](https://img.shields.io/badge/Zsh-FF8700?style=for-the-badge&logo=gnu-bash&logoColor=white)
