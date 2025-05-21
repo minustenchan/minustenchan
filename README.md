@@ -10,18 +10,10 @@
 **IDEs**  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
----
-
-### 📊 GitHub Stats  
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=minustenchan&show_icons=true&theme=transparent&include_all_commits=true&ring_color=94e2d5&title_color=94e2d5&icon_color=cba6f7&text_color=cdd6f3&hide_border=true" alt="GitHub Stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minustenchan&langs_count=8&card_width=260&theme=transparent&include_all_commits=true&ring_color=cba6f7&title_color=94e2d5&icon_color=cba6f7&text_color=cdd6f4&hide_border=true" alt="GitHub Streak" height="165">
 </div>
-
----
-
-#
 
 <div align="left">
   <img src ="https://github.com/minustenchan/minustenchan/blob/output/snake.svg" height="200" width="1920" alt="snake"/>
